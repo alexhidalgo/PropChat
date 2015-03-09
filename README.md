@@ -74,7 +74,9 @@ $ npm install
 $ bower install
 ```
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+###Follow my progress as a Junior Dev :)
+
+(http://i.imgur.com/tXSoThF.png) (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 
