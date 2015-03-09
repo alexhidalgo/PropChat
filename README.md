@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/alexhidalgo/PropChat.png?label=ready&title=Ready)](https://waffle.io/alexhidalgo/PropChat)
 # PropChat
 
 ##Description
