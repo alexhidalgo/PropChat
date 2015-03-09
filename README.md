@@ -20,12 +20,12 @@ Here is an interactive prototype of PropChat that you can view online or downloa
 
 ###Models
 - User
-	1. Email Type: String Unique: True
-	2. Password Type: String Unique: True
+	1. Email - Type: String, Unique: True, Validation: HTML5/Angular Email
+	2. Password - Type: String, Unique: True, Validation: Angular 6 characters min.
 
 - Chat Room
-	1. Name Type: String Unique: True
-	2. Messages Type: String Unique: False
+	1. Name - Type: String, Unique: True
+	2. Messages - Type: Array of Strings, Unique: False, Validation: Not empty string
 
 ###Technologies
 	-APIs
@@ -73,3 +73,14 @@ $ npm install
 ```sh
 $ bower install
 ```
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+
+
+
+
+[1]: http://www.twitter.com/dallashidalgo
+[2]: http://www.facebook.com/alexhidalgo
+
