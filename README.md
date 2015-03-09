@@ -61,3 +61,11 @@ If you would like to contribute to this project open your favorite terminal and 
 ```sh
 $ npm install
 ```
+
+```bash
+$ bower install
+```
+
+```shell
+$ npm install
+```
