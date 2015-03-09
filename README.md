@@ -55,17 +55,21 @@ Here is an interactive prototype of PropChat that you can view online or downloa
 		-Bower
 		-NPM
 
-###Development
+###Start Contributing!
 If you would like to contribute to this project open your favorite terminal and run these commands.
+
+
+```sh
+$ npm install -g cordova ionic
+```
+
+```sh
+git clone https://github.com/alexhidalgo/PropChat.git
 
 ```sh
 $ npm install
 ```
 
-```bash
+```sh
 $ bower install
-```
-
-```shell
-$ npm install
 ```
