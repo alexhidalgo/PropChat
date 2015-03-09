@@ -7,7 +7,7 @@ PropChat is a real-time mobile chat app using Firebase's powerful API to store a
 You can find feature sets and my breakdown of PropChat's user experience here on Waffle.io, Github's version of Trello. [![Stories in Ready](https://badge.waffle.io/alexhidalgo/PropChat.png?label=ready&title=Ready)](https://waffle.io/alexhidalgo/PropChat)
 
 ##Wireframes
-Check out wireframes built using Moqups, a simple yet powerful prototyping tool for both UX designers and developers.
+Check out wireframes built using Moqups, a simple yet powerful prototyping tool for both UX designers and developers. https://moqups.com/aj1hidalgo/ToDZdczR/p:a70f8b92a
 
 ##Interactive Prototype
 Here is an interactive prototype of PropChat that you can view online or download to your phone! Prototyping is an important tool for every designer and developer which is why making it interactive to show user workflow through the app is super important.
