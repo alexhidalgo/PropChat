@@ -1,5 +1,7 @@
 # PropChat
 
+![Alt text](https://lh3.ggpht.com/3I3zGI2LEZhU3fkxK7bPg9dv94Ah0cnqpsM2fDxfqIF0Xkv0n_IPFkum2eJlwciLZLSQ=h310-rw "Optional title")
+
 ##Description
 PropChat is a real-time mobile chat app using Firebase's powerful API to store and sync data instantly. The app is built leveraging the Ionic Framework and Angular JS to create a hybrid webapp with a truly native-like experience. The app is written solely using client side web technology wrapped in Cordova's magic allowing access to the phone's sensors and hardware. This approach enables PropChat and many applications like it to be built quickly without the need for writing natively, as well as server side code in this case.
 
