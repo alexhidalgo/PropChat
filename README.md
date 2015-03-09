@@ -58,6 +58,6 @@ Here is an interactive prototype of PropChat that you can view online or downloa
 ###Development
 If you would like to contribute to this project open your favorite terminal and run these commands.
 
-	```sh
+	```shell
 	$ npm install
 	```
