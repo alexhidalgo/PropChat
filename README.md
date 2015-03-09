@@ -9,6 +9,9 @@ You can find feature sets and my breakdown of PropChat's user experience here on
 ##Wireframes
 Check out wireframes built using Moqups, a simple yet powerful prototyping tool for both UX designers and developers.
 
+##Interactive Prototype
+Here is an interactive prototype of PropChat that you can view online or download to your phone! Prototyping is an important tool for every designer and developer which is why making it interactive to show user workflow through the app is super important.
+
 ##Models
 - User
 	1. Email Type: String Unique: True
