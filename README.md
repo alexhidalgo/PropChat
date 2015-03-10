@@ -30,6 +30,7 @@ Here is an interactive prototype of PropChat that you can view online or downloa
 ###Technologies
 	-APIs
 		-Firebase
+
 	-Device APIs
 		-Cordova
 
@@ -39,9 +40,6 @@ Here is an interactive prototype of PropChat that you can view online or downloa
 
 	-App Distribution
 		-Ionic View
-
-	-Libraries
-		-LoDash
 
 	-Frameworks
 		-Angular JS
@@ -59,12 +57,13 @@ Here is an interactive prototype of PropChat that you can view online or downloa
 If you would like to contribute to this project open your favorite terminal and run these commands.
 
 
-```sh
+```zsh
 $ npm install -g cordova ionic
 ```
 
 ```sh
 git clone https://github.com/alexhidalgo/PropChat.git
+```
 
 ```sh
 $ npm install
