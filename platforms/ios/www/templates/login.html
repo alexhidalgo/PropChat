@@ -1,0 +1,19 @@
+<ion-view title="login">
+	<ion-content>
+	<h1>PropChat</h1>
+	<div class="list">
+	  <label class="item item-input">
+	    <input type="text" placeholder="Email" ng-model="user.email">
+	  </label>
+	  <label class="item item-input">
+	    <input type="password" placeholder="Password" ng-model="user.pwdForLogin">
+	  </label>
+	  <button class="button button-block button-positive" ng-click="signIn(user)">Submit</button>
+	</div>
+
+	<button class="button button-outline button-positive" ng-click="modal.show()"><i class="ion-person-add"></i>
+  Create New Account
+</button>
+
+	</ion-content>
+</ion-view>

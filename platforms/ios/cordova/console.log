@@ -1,0 +1,581 @@
+2015-03-10 17:41:31.220 PropChatApp[3950:32125] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/6B650DB1-60E1-4D5F-92FF-B298752D5A1E/Library/Cookies/Cookies.binarycookies
+2015-03-10 17:41:32.151 PropChatApp[3950:32125] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-10 17:41:32.151 PropChatApp[3950:32125] Multi-tasking -> Device: YES, App: YES
+2015-03-10 17:41:32.217 PropChatApp[3950:32125] Unlimited access to network resources
+2015-03-10 17:41:32.983 PropChatApp[3950:32125] [CDVTimer][keyboard] 0.056982ms
+2015-03-10 17:41:32.983 PropChatApp[3950:32125] [CDVTimer][TotalPluginStartup] 0.223041ms
+2015-03-10 17:41:33.982 PropChatApp[3950:32125] Resetting plugins due to page load.
+2015-03-10 17:41:34.654 PropChatApp[3950:32125] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/index.html#/login
+2015-03-10 17:41:34.739 PropChatApp[3950:32125] login ctrl initialized
+2015-03-10 17:41:34.740 PropChatApp[3950:32125] ERROR: Error: FIREBASE FATAL ERROR: Cannot parse Firebase url. Please use https://<YOUR FIREBASE>.firebaseio.com 
+Qc@https://cdn.firebase.com/js/client/2.2.2/firebase.js:39:233
+U@https://cdn.firebase.com/js/client/2.2.2/firebase.js:238:593
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/js/controllers.js:6:24
+invoke@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:12104:22
+instantiate@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:12112:33
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:16381:39
+appendViewElement@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:47316:35
+render@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:45595:58
+init@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:45515:26
+render@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:47204:18
+register@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:47162:16
+updateView@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52331:31
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52308:21
+$broadcast@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22639:33
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:40109:32
+processQueue@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21108:29
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21124:39
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$digest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22136:36
+$apply@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22425:31
+done@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:17578:53
+completeRequest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:17768:15
+requestLoaded@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/92A28600-3B03-4FCD-9FAF-DA7B8BAF56F8/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:17709:24
+2015-03-10 17:41:34.745 PropChatApp[3950:32125] Logged out
+2015-03-10 17:48:25.849 PropChatApp[4102:35054] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/4F8DB8AD-7A81-4874-A6AA-52FD3961F7A0/Library/Cookies/Cookies.binarycookies
+2015-03-10 17:48:25.948 PropChatApp[4102:35054] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-10 17:48:25.948 PropChatApp[4102:35054] Multi-tasking -> Device: YES, App: YES
+2015-03-10 17:48:25.949 PropChatApp[4102:35054] Unlimited access to network resources
+2015-03-10 17:48:26.135 PropChatApp[4102:35054] [CDVTimer][keyboard] 0.052989ms
+2015-03-10 17:48:26.136 PropChatApp[4102:35054] [CDVTimer][TotalPluginStartup] 0.220001ms
+2015-03-10 17:48:26.183 PropChatApp[4102:35054] Resetting plugins due to page load.
+2015-03-10 17:48:26.383 PropChatApp[4102:35054] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/15CA7686-047A-4BBB-9E33-C4EC8EA5B0DE/PropChatApp.app/www/index.html#/login
+2015-03-10 17:48:26.486 PropChatApp[4102:35054] Logged out
+2015-03-11 00:41:31.696 PropChatApp[5114:76490] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/F7BB8E64-7E25-4C54-B3CF-E8BD4BDE4976/Library/Cookies/Cookies.binarycookies
+2015-03-11 00:41:31.805 PropChatApp[5114:76490] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 00:41:31.806 PropChatApp[5114:76490] Multi-tasking -> Device: YES, App: YES
+2015-03-11 00:41:31.808 PropChatApp[5114:76490] Unlimited access to network resources
+2015-03-11 00:41:32.012 PropChatApp[5114:76490] [CDVTimer][keyboard] 0.055015ms
+2015-03-11 00:41:32.012 PropChatApp[5114:76490] [CDVTimer][TotalPluginStartup] 0.229001ms
+2015-03-11 00:41:32.068 PropChatApp[5114:76490] Resetting plugins due to page load.
+2015-03-11 00:41:32.500 PropChatApp[5114:76490] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/index.html#/login
+2015-03-11 00:41:32.526 PropChatApp[5114:76490] Logged out
+2015-03-11 00:41:32.553 PropChatApp[5114:76490] login ctrl initialized
+2015-03-11 00:42:05.832 PropChatApp[5114:76490] Logged in as: simplelogin:2
+2015-03-11 00:42:05.832 PropChatApp[5114:76490] Logged in as simplelogin:2
+2015-03-11 00:42:08.483 PropChatApp[5114:76490] ChatCtrl initialized
+2015-03-11 00:42:08.483 PropChatApp[5114:76490] selecting the room with id 0
+2015-03-11 00:42:11.658 PropChatApp[5114:76490] ERROR: Error: Can't find variable: chat
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/js/services.js:20:24
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/js/controllers.js:95:16
+$parseFunctionCall@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:20264:23
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52360:21
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$apply@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22419:28
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52359:19
+eventHandler@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:10933:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2853:20
+tapClick@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2842:20
+tapTouchEnd@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/12A1A33B-1B37-4C7E-8AEE-D2FA2F233798/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2960:13
+2015-03-11 01:31:49.009 PropChatApp[5558:91218] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/137F46A5-CEC6-4D97-BBFA-0158AAA6A8D2/Library/Cookies/Cookies.binarycookies
+2015-03-11 01:31:49.153 PropChatApp[5558:91218] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 01:31:49.154 PropChatApp[5558:91218] Multi-tasking -> Device: YES, App: YES
+2015-03-11 01:31:49.157 PropChatApp[5558:91218] Unlimited access to network resources
+2015-03-11 01:31:50.302 PropChatApp[5558:91218] [CDVTimer][keyboard] 0.064015ms
+2015-03-11 01:31:50.302 PropChatApp[5558:91218] [CDVTimer][TotalPluginStartup] 0.220001ms
+2015-03-11 01:31:50.896 PropChatApp[5558:91218] Resetting plugins due to page load.
+2015-03-11 01:31:51.362 PropChatApp[5558:91218] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/index.html#/login
+2015-03-11 01:31:51.407 PropChatApp[5558:91218] Logged out
+2015-03-11 01:31:51.407 PropChatApp[5558:91218] login ctrl initialized
+2015-03-11 01:32:24.029 PropChatApp[5558:91218] Logged in as: simplelogin:2
+2015-03-11 01:32:24.029 PropChatApp[5558:91218] Logged in as simplelogin:2
+2015-03-11 01:32:25.424 PropChatApp[5558:91218] ChatCtrl initialized
+2015-03-11 01:32:25.424 PropChatApp[5558:91218] selecting the room with id 0
+2015-03-11 01:32:28.826 PropChatApp[5558:91218] test
+2015-03-11 01:32:28.826 PropChatApp[5558:91218] sending message from: alex & message is test
+2015-03-11 01:32:28.826 PropChatApp[5558:91218] test
+2015-03-11 01:32:28.962 PropChatApp[5558:91218] message added
+2015-03-11 01:32:33.498 PropChatApp[5558:91218] ERROR: Error: Can't find variable: chat
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/js/services.js:20:24
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/js/controllers.js:95:16
+$parseFunctionCall@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:20264:23
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52360:21
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$apply@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22419:28
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52359:19
+eventHandler@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:10933:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2853:20
+tapClick@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2842:20
+tapTouchEnd@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/5D45EEE5-8C8B-479C-BF25-CF262A632F11/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2960:13
+2015-03-11 09:25:22.337 PropChatApp[5843:109892] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/0D4B4FA3-F058-443A-8C2B-72DE538A0FEA/Library/Cookies/Cookies.binarycookies
+2015-03-11 09:25:22.402 PropChatApp[5843:109892] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 09:25:22.402 PropChatApp[5843:109892] Multi-tasking -> Device: YES, App: YES
+2015-03-11 09:25:22.403 PropChatApp[5843:109892] Unlimited access to network resources
+2015-03-11 09:25:22.721 PropChatApp[5843:109892] [CDVTimer][keyboard] 0.052989ms
+2015-03-11 09:25:22.721 PropChatApp[5843:109892] [CDVTimer][TotalPluginStartup] 0.212967ms
+2015-03-11 09:25:22.753 PropChatApp[5843:109892] Resetting plugins due to page load.
+2015-03-11 09:25:23.096 PropChatApp[5843:109892] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/BBB5DF8A-0104-4ABD-8529-8A0A6259EA21/PropChatApp.app/www/index.html#/login
+2015-03-11 09:25:23.115 PropChatApp[5843:109892] Logged in as: simplelogin:2
+2015-03-11 09:25:23.138 PropChatApp[5843:109892] login ctrl initialized
+2015-03-11 09:25:52.191 PropChatApp[5843:109892] Logged in as: simplelogin:2
+2015-03-11 09:25:52.192 PropChatApp[5843:109892] Logged in as simplelogin:2
+2015-03-11 09:32:49.253 PropChatApp[6108:117458] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/1DA69178-81A4-40EF-AC7D-C67497D8CCE5/Library/Cookies/Cookies.binarycookies
+2015-03-11 09:32:49.419 PropChatApp[6108:117458] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 09:32:49.420 PropChatApp[6108:117458] Multi-tasking -> Device: YES, App: YES
+2015-03-11 09:32:49.422 PropChatApp[6108:117458] Unlimited access to network resources
+2015-03-11 09:32:49.659 PropChatApp[6108:117458] [CDVTimer][keyboard] 0.064015ms
+2015-03-11 09:32:49.659 PropChatApp[6108:117458] [CDVTimer][TotalPluginStartup] 0.268996ms
+2015-03-11 09:32:49.719 PropChatApp[6108:117458] Resetting plugins due to page load.
+2015-03-11 09:32:50.280 PropChatApp[6108:117458] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/40E1139E-C1C8-44F9-B2F7-C5A3AADE1F75/PropChatApp.app/www/index.html#/login
+2015-03-11 09:32:50.333 PropChatApp[6108:117458] login ctrl initialized
+2015-03-11 09:32:50.360 PropChatApp[6108:117458] Logged in as: simplelogin:2
+2015-03-11 09:34:08.196 PropChatApp[6108:117458] Logged in as: simplelogin:2
+2015-03-11 09:34:08.196 PropChatApp[6108:117458] Logged in as simplelogin:2
+2015-03-11 09:38:30.486 PropChatApp[6279:120448] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/9016A3B2-7E60-47F7-8278-2B6E303768A8/Library/Cookies/Cookies.binarycookies
+2015-03-11 09:38:30.587 PropChatApp[6279:120448] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 09:38:30.587 PropChatApp[6279:120448] Multi-tasking -> Device: YES, App: YES
+2015-03-11 09:38:30.589 PropChatApp[6279:120448] Unlimited access to network resources
+2015-03-11 09:38:30.784 PropChatApp[6279:120448] [CDVTimer][keyboard] 0.083983ms
+2015-03-11 09:38:30.784 PropChatApp[6279:120448] [CDVTimer][TotalPluginStartup] 0.321984ms
+2015-03-11 09:38:30.839 PropChatApp[6279:120448] Resetting plugins due to page load.
+2015-03-11 09:38:31.635 PropChatApp[6279:120448] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/33973728-D61E-4265-81CF-DA7CB02EA395/PropChatApp.app/www/index.html#/login
+2015-03-11 09:38:31.681 PropChatApp[6279:120448] login ctrl initialized
+2015-03-11 09:38:31.681 PropChatApp[6279:120448] Logged in as: simplelogin:2
+2015-03-11 09:40:04.377 PropChatApp[6279:120448] Logged in as: simplelogin:2
+2015-03-11 09:40:04.377 PropChatApp[6279:120448] Logged in as simplelogin:2
+2015-03-11 09:41:38.752 PropChatApp[6279:120448] Logging out from the app
+2015-03-11 09:41:38.785 PropChatApp[6279:120448] Logged out
+2015-03-11 09:55:32.076 PropChatApp[6279:127148] Terminating since there is no system app.
+2015-03-11 09:57:20.631 PropChatApp[6581:128302] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/01552AA9-6449-40FA-953E-189FC0441370/Library/Cookies/Cookies.binarycookies
+2015-03-11 09:57:20.739 PropChatApp[6581:128302] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 09:57:20.739 PropChatApp[6581:128302] Multi-tasking -> Device: YES, App: YES
+2015-03-11 09:57:20.741 PropChatApp[6581:128302] Unlimited access to network resources
+2015-03-11 09:57:21.239 PropChatApp[6581:128302] [CDVTimer][keyboard] 0.099003ms
+2015-03-11 09:57:21.239 PropChatApp[6581:128302] [CDVTimer][TotalPluginStartup] 0.338972ms
+2015-03-11 09:57:21.307 PropChatApp[6581:128302] Resetting plugins due to page load.
+2015-03-11 09:57:22.716 PropChatApp[6581:128302] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B9F4967D-ADBC-4C91-A3C5-CAA0FA7B265B/PropChatApp.app/www/index.html#/login
+2015-03-11 09:57:22.770 PropChatApp[6581:128302] login ctrl initialized
+2015-03-11 09:57:22.770 PropChatApp[6581:128302] Logged out
+2015-03-11 10:06:36.486 PropChatApp[6581:128302] Resetting plugins due to page load.
+2015-03-11 10:06:37.257 PropChatApp[6581:128302] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B9F4967D-ADBC-4C91-A3C5-CAA0FA7B265B/PropChatApp.app/www/index.html#/login
+2015-03-11 10:06:37.311 PropChatApp[6581:128302] Logged out
+2015-03-11 10:06:37.383 PropChatApp[6581:128302] login ctrl initialized
+2015-03-11 10:15:22.242 PropChatApp[6783:134425] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/69EA848F-B26D-4ACC-848F-8A0A5847E7D5/Library/Cookies/Cookies.binarycookies
+2015-03-11 10:15:22.356 PropChatApp[6783:134425] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 10:15:22.357 PropChatApp[6783:134425] Multi-tasking -> Device: YES, App: YES
+2015-03-11 10:15:22.358 PropChatApp[6783:134425] Unlimited access to network resources
+2015-03-11 10:15:22.567 PropChatApp[6783:134425] [CDVTimer][keyboard] 0.061989ms
+2015-03-11 10:15:22.567 PropChatApp[6783:134425] [CDVTimer][TotalPluginStartup] 0.232041ms
+2015-03-11 10:15:22.624 PropChatApp[6783:134425] Resetting plugins due to page load.
+2015-03-11 10:15:23.104 PropChatApp[6783:134425] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B6195C8C-EAC6-4497-9051-F3934D8A49BF/PropChatApp.app/www/index.html#/login
+2015-03-11 10:15:23.158 PropChatApp[6783:134425] login ctrl initialized
+2015-03-11 10:15:23.209 PropChatApp[6783:134425] Logged out
+2015-03-11 11:26:26.252 PropChatApp[7034:146342] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/1244DFFB-8790-4B13-B0E3-D19BC9CCD9E5/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:26:26.418 PropChatApp[7034:146342] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:26:26.419 PropChatApp[7034:146342] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:26:26.421 PropChatApp[7034:146342] Unlimited access to network resources
+2015-03-11 11:26:26.633 PropChatApp[7034:146342] [CDVTimer][keyboard] 0.059009ms
+2015-03-11 11:26:26.633 PropChatApp[7034:146342] [CDVTimer][TotalPluginStartup] 0.226021ms
+2015-03-11 11:26:26.696 PropChatApp[7034:146342] Resetting plugins due to page load.
+2015-03-11 11:26:27.784 PropChatApp[7034:146342] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/index.html#/login
+2015-03-11 11:26:27.845 PropChatApp[7034:146342] login ctrl initialized
+2015-03-11 11:26:27.859 PropChatApp[7034:146342] Logged out
+2015-03-11 11:26:34.241 PropChatApp[7034:146342] Logged in as: simplelogin:2
+2015-03-11 11:26:34.242 PropChatApp[7034:146342] Logged in as simplelogin:2
+2015-03-11 11:26:35.161 PropChatApp[7034:146342] ChatCtrl initialized
+2015-03-11 11:26:35.161 PropChatApp[7034:146342] selecting the room with id 0
+2015-03-11 11:26:37.749 PropChatApp[7034:146342] ERROR: Error: Can't find variable: chat
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/js/services.js:20:24
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/js/controllers.js:95:16
+$parseFunctionCall@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:20264:23
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52360:21
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$apply@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22419:28
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52359:19
+eventHandler@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:10933:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2853:20
+tapClick@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2842:20
+tapTouchEnd@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2960:13
+2015-03-11 11:27:26.363 PropChatApp[7034:146342] ERROR: Error: Can't find variable: chat
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/js/services.js:20:24
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/js/controllers.js:95:16
+$parseFunctionCall@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:20264:23
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52360:21
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$apply@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22419:28
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52359:19
+eventHandler@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:10933:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2853:20
+tapClick@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2842:20
+tapTouchEnd@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/508840B2-8D89-453D-B15D-B7990CB65A31/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2960:13
+2015-03-11 11:28:57.959 PropChatApp[7202:147822] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/929D8563-360B-44EE-925A-03A42A94770F/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:28:58.068 PropChatApp[7202:147822] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:28:58.069 PropChatApp[7202:147822] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:28:58.070 PropChatApp[7202:147822] Unlimited access to network resources
+2015-03-11 11:28:58.278 PropChatApp[7202:147822] [CDVTimer][keyboard] 0.082970ms
+2015-03-11 11:28:58.278 PropChatApp[7202:147822] [CDVTimer][TotalPluginStartup] 0.315964ms
+2015-03-11 11:28:58.340 PropChatApp[7202:147822] Resetting plugins due to page load.
+2015-03-11 11:28:58.809 PropChatApp[7202:147822] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/index.html#/login
+2015-03-11 11:28:58.872 PropChatApp[7202:147822] login ctrl initialized
+2015-03-11 11:28:58.904 PropChatApp[7202:147822] Logged in as: simplelogin:2
+2015-03-11 11:29:07.951 PropChatApp[7202:147822] Logged in as: simplelogin:2
+2015-03-11 11:29:07.951 PropChatApp[7202:147822] Logged in as simplelogin:2
+2015-03-11 11:29:09.583 PropChatApp[7202:147822] ChatCtrl initialized
+2015-03-11 11:29:09.584 PropChatApp[7202:147822] selecting the room with id 0
+2015-03-11 11:29:19.801 PropChatApp[7202:147822] ERROR: Error: Can't find variable: chat
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/js/services.js:20:24
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/js/controllers.js:95:16
+$parseFunctionCall@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:20264:23
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52360:21
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$apply@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22419:28
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52359:19
+eventHandler@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:10933:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2853:20
+tapClick@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2842:20
+tapTouchEnd@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/07E8E598-D498-4BE4-B2AA-E5E0AB0D173B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2960:13
+2015-03-11 11:30:37.252 PropChatApp[7202:148396] Terminating since there is no system app.
+2015-03-11 11:31:14.373 PropChatApp[7364:149311] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/5F71429A-A29C-4FA7-82F7-40242BD26F45/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:31:14.493 PropChatApp[7364:149311] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:31:14.493 PropChatApp[7364:149311] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:31:14.495 PropChatApp[7364:149311] Unlimited access to network resources
+2015-03-11 11:31:14.712 PropChatApp[7364:149311] [CDVTimer][keyboard] 0.074029ms
+2015-03-11 11:31:14.713 PropChatApp[7364:149311] [CDVTimer][TotalPluginStartup] 0.271022ms
+2015-03-11 11:31:14.774 PropChatApp[7364:149311] Resetting plugins due to page load.
+2015-03-11 11:31:15.310 PropChatApp[7364:149311] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/index.html#/login
+2015-03-11 11:31:15.360 PropChatApp[7364:149311] login ctrl initialized
+2015-03-11 11:31:15.360 PropChatApp[7364:149311] Logged in as: simplelogin:2
+2015-03-11 11:31:26.048 PropChatApp[7364:149311] Logged in as: simplelogin:2
+2015-03-11 11:31:26.048 PropChatApp[7364:149311] Logged in as simplelogin:2
+2015-03-11 11:31:27.072 PropChatApp[7364:149311] ChatCtrl initialized
+2015-03-11 11:31:27.073 PropChatApp[7364:149311] selecting the room with id 0
+2015-03-11 11:31:30.072 PropChatApp[7364:149311] ERROR: Error: Can't find variable: chat
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/js/services.js:20:24
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/js/controllers.js:95:16
+$parseFunctionCall@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:20264:23
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52360:21
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$apply@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22419:28
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52359:19
+eventHandler@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:10933:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2853:20
+tapClick@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2842:20
+tapTouchEnd@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E3C11234-673F-4030-83FB-28212B737DF0/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2960:13
+2015-03-11 11:35:20.177 PropChatApp[7558:151157] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/0FF8C81F-6E5F-4EC3-B88F-047DE0D55B5C/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:35:20.281 PropChatApp[7558:151157] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:35:20.282 PropChatApp[7558:151157] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:35:20.283 PropChatApp[7558:151157] Unlimited access to network resources
+2015-03-11 11:35:20.490 PropChatApp[7558:151157] [CDVTimer][keyboard] 0.054002ms
+2015-03-11 11:35:20.490 PropChatApp[7558:151157] [CDVTimer][TotalPluginStartup] 0.220001ms
+2015-03-11 11:35:20.545 PropChatApp[7558:151157] Resetting plugins due to page load.
+2015-03-11 11:35:21.027 PropChatApp[7558:151157] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/index.html#/login
+2015-03-11 11:35:21.088 PropChatApp[7558:151157] login ctrl initialized
+2015-03-11 11:35:21.102 PropChatApp[7558:151157] Logged in as: simplelogin:2
+2015-03-11 11:35:36.547 PropChatApp[7558:151157] Logged in as: simplelogin:2
+2015-03-11 11:35:36.547 PropChatApp[7558:151157] Logged in as simplelogin:2
+2015-03-11 11:35:38.500 PropChatApp[7558:151157] ChatCtrl initialized
+2015-03-11 11:35:38.501 PropChatApp[7558:151157] selecting the room with id 0
+2015-03-11 11:35:41.588 PropChatApp[7558:151157] ERROR: Error: Can't find variable: chat
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/js/services.js:20:24
+remove@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/js/controllers.js:95:16
+$parseFunctionCall@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:20264:23
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52360:21
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$apply@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22419:28
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:52359:19
+eventHandler@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:10933:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2853:20
+tapClick@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2842:20
+tapTouchEnd@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/B5F21C09-36B7-46D2-ABAC-6C15A1E49894/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:2960:13
+2015-03-11 11:36:15.667 PropChatApp[7817:152372] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/281D6EA1-41F3-4C73-9F07-4618ED26B1B2/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:36:15.852 PropChatApp[7817:152372] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:36:15.852 PropChatApp[7817:152372] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:36:15.854 PropChatApp[7817:152372] Unlimited access to network resources
+2015-03-11 11:36:16.064 PropChatApp[7817:152372] [CDVTimer][keyboard] 0.089049ms
+2015-03-11 11:36:16.064 PropChatApp[7817:152372] [CDVTimer][TotalPluginStartup] 0.283003ms
+2015-03-11 11:36:16.119 PropChatApp[7817:152372] Resetting plugins due to page load.
+2015-03-11 11:36:16.498 PropChatApp[7817:152372] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/DAB1CB00-820E-4D05-865B-74E806507AB1/PropChatApp.app/www/index.html#/login
+2015-03-11 11:36:16.540 PropChatApp[7817:152372] Logged in as: simplelogin:2
+2015-03-11 11:36:16.540 PropChatApp[7817:152372] Logged in as: simplelogin:2
+2015-03-11 11:36:16.570 PropChatApp[7817:152372] login ctrl initialized
+2015-03-11 11:36:33.094 PropChatApp[7817:152372] Logged in as: simplelogin:2
+2015-03-11 11:36:33.094 PropChatApp[7817:152372] Logged in as: simplelogin:2
+2015-03-11 11:36:33.094 PropChatApp[7817:152372] Logged in as simplelogin:2
+2015-03-11 11:36:33.988 PropChatApp[7817:152372] selecting the room with id 0
+2015-03-11 11:36:36.798 PropChatApp[7817:152372] {"createdAt":1426086982614,"from":"alex","message":"Ghggg","$id":"-Jk8P68Dd1DhhL1OT-pm","$priority":null,"$$hashKey":"object:50"}
+2015-03-11 11:39:11.313 PropChatApp[7985:153998] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/F95B9BE3-25AC-4544-B218-4CE691872CCB/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:39:11.415 PropChatApp[7985:153998] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:39:11.415 PropChatApp[7985:153998] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:39:11.417 PropChatApp[7985:153998] Unlimited access to network resources
+2015-03-11 11:39:11.684 PropChatApp[7985:153998] [CDVTimer][keyboard] 0.091016ms
+2015-03-11 11:39:11.685 PropChatApp[7985:153998] [CDVTimer][TotalPluginStartup] 0.337005ms
+2015-03-11 11:39:11.760 PropChatApp[7985:153998] Resetting plugins due to page load.
+2015-03-11 11:39:12.279 PropChatApp[7985:153998] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/220A596E-8A74-4000-9059-ED6A60BACEE8/PropChatApp.app/www/index.html#/login
+2015-03-11 11:39:12.321 PropChatApp[7985:153998] Logged in as: simplelogin:2
+2015-03-11 11:39:12.321 PropChatApp[7985:153998] Logged in as: simplelogin:2
+2015-03-11 11:39:12.383 PropChatApp[7985:153998] login ctrl initialized
+2015-03-11 11:40:14.539 PropChatApp[7985:153998] Logged in as: simplelogin:2
+2015-03-11 11:40:14.539 PropChatApp[7985:153998] Logged in as simplelogin:2
+2015-03-11 11:40:14.540 PropChatApp[7985:153998] Logged in as: simplelogin:2
+2015-03-11 11:40:41.054 PropChatApp[7985:153998] Logged in as: simplelogin:2
+2015-03-11 11:40:41.054 PropChatApp[7985:153998] Logged in as simplelogin:2
+2015-03-11 11:40:41.055 PropChatApp[7985:153998] Logged in as: simplelogin:2
+2015-03-11 11:41:12.488 PropChatApp[7985:153998] Logging out from the app
+2015-03-11 11:41:12.511 PropChatApp[7985:153998] Logged out
+2015-03-11 11:41:12.511 PropChatApp[7985:153998] Logged out
+2015-03-11 11:41:15.665 PropChatApp[7985:153998] Logged in as: simplelogin:2
+2015-03-11 11:41:15.665 PropChatApp[7985:153998] Logged in as simplelogin:2
+2015-03-11 11:41:15.666 PropChatApp[7985:153998] Logged in as: simplelogin:2
+2015-03-11 11:43:38.691 PropChatApp[8305:157110] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/98E70DCD-91FB-4844-A030-14A80262C795/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:43:38.898 PropChatApp[8305:157110] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:43:38.899 PropChatApp[8305:157110] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:43:38.900 PropChatApp[8305:157110] Unlimited access to network resources
+2015-03-11 11:43:39.114 PropChatApp[8305:157110] [CDVTimer][keyboard] 0.063002ms
+2015-03-11 11:43:39.114 PropChatApp[8305:157110] [CDVTimer][TotalPluginStartup] 0.309050ms
+2015-03-11 11:43:39.166 PropChatApp[8305:157110] Resetting plugins due to page load.
+2015-03-11 11:43:39.637 PropChatApp[8305:157110] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/3D9764EE-ED2F-4465-9B68-89BD02C28F9B/PropChatApp.app/www/index.html#/login
+2015-03-11 11:43:39.720 PropChatApp[8305:157110] login ctrl initialized
+2015-03-11 11:43:39.741 PropChatApp[8305:157110] Logged in as: simplelogin:2
+2015-03-11 11:43:39.741 PropChatApp[8305:157110] Logged in as: simplelogin:2
+2015-03-11 11:44:41.367 PropChatApp[8305:157110] Logged in as: simplelogin:2
+2015-03-11 11:44:41.367 PropChatApp[8305:157110] Logged in as: simplelogin:2
+2015-03-11 11:44:41.367 PropChatApp[8305:157110] Logged in as simplelogin:2
+2015-03-11 11:44:43.404 PropChatApp[8305:157110] selecting the room with id 0
+2015-03-11 11:51:58.462 PropChatApp[8305:157110] {"createdAt":1426086982614,"from":"alex","message":"Ghggg","$id":"-Jk8P68Dd1DhhL1OT-pm","$priority":null,"$$hashKey":"object:50"}
+2015-03-11 11:51:58.462 PropChatApp[8305:157110] [object Object]remove method in service
+2015-03-11 11:52:25.753 PropChatApp[8305:157110] {"createdAt":1426086403926,"from":"alex","message":"Yuu","$id":"-Jk8MtsdNZR3DM2kLM-x","$priority":null,"$$hashKey":"object:51"}
+2015-03-11 11:52:25.753 PropChatApp[8305:157110] [object Object]remove method in service
+2015-03-11 11:52:32.388 PropChatApp[8305:157110] {"createdAt":1426086391368,"from":"alex","message":"Fff","$id":"-Jk8MqpfwDLgFT30C7tl","$priority":null,"$$hashKey":"object:52"}
+2015-03-11 11:52:32.389 PropChatApp[8305:157110] [object Object]remove method in service
+2015-03-11 12:28:09.940 PropChatApp[8305:157110] Logging out from the app
+2015-03-11 12:28:09.979 PropChatApp[8305:157110] Logged out
+2015-03-11 12:28:09.981 PropChatApp[8305:157110] Logged out
+2015-03-11 12:28:33.760 PropChatApp[8305:157110] Creat User Function called
+2015-03-11 12:29:39.204 PropChatApp[8305:157110] Creat User Function called
+2015-03-11 12:29:42.355 PropChatApp[8305:157110] Creat User Function called
+2015-03-11 12:29:44.623 PropChatApp[8305:157110] ERROR: Error: Can't find variable: ionicaLoading
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/3D9764EE-ED2F-4465-9B68-89BD02C28F9B/PropChatApp.app/www/js/controllers.js:35:18
+processQueue@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/3D9764EE-ED2F-4465-9B68-89BD02C28F9B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21108:29
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/3D9764EE-ED2F-4465-9B68-89BD02C28F9B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21124:39
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/3D9764EE-ED2F-4465-9B68-89BD02C28F9B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$digest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/3D9764EE-ED2F-4465-9B68-89BD02C28F9B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22136:36
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/3D9764EE-ED2F-4465-9B68-89BD02C28F9B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22359:33
+completeOutstandingRequest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/3D9764EE-ED2F-4465-9B68-89BD02C28F9B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:12824:15
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/3D9764EE-ED2F-4465-9B68-89BD02C28F9B/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:13204:33
+2015-03-11 12:31:17.021 PropChatApp[8518:166708] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/6B5BC019-1458-4D61-96E3-332DA63C4C2D/Library/Cookies/Cookies.binarycookies
+2015-03-11 12:31:17.142 PropChatApp[8518:166708] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 12:31:17.143 PropChatApp[8518:166708] Multi-tasking -> Device: YES, App: YES
+2015-03-11 12:31:17.145 PropChatApp[8518:166708] Unlimited access to network resources
+2015-03-11 12:31:18.132 PropChatApp[8518:166708] [CDVTimer][keyboard] 0.055015ms
+2015-03-11 12:31:18.132 PropChatApp[8518:166708] [CDVTimer][TotalPluginStartup] 0.222981ms
+2015-03-11 12:31:18.190 PropChatApp[8518:166708] Resetting plugins due to page load.
+2015-03-11 12:31:19.048 PropChatApp[8518:166708] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/AE52D391-C017-4F77-9D6A-D4DD717D12F1/PropChatApp.app/www/index.html#/login
+2015-03-11 12:31:19.124 PropChatApp[8518:166708] login ctrl initialized
+2015-03-11 12:31:19.145 PropChatApp[8518:166708] Logged out
+2015-03-11 12:31:19.146 PropChatApp[8518:166708] Logged out
+2015-03-11 12:31:53.713 PropChatApp[8518:166708] Creat User Function called
+2015-03-11 12:31:55.725 PropChatApp[8518:166708] ERROR: Error: Can't find variable: ionicaLoading
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/AE52D391-C017-4F77-9D6A-D4DD717D12F1/PropChatApp.app/www/js/controllers.js:35:18
+processQueue@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/AE52D391-C017-4F77-9D6A-D4DD717D12F1/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21108:29
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/AE52D391-C017-4F77-9D6A-D4DD717D12F1/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21124:39
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/AE52D391-C017-4F77-9D6A-D4DD717D12F1/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$digest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/AE52D391-C017-4F77-9D6A-D4DD717D12F1/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22136:36
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/AE52D391-C017-4F77-9D6A-D4DD717D12F1/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22359:33
+completeOutstandingRequest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/AE52D391-C017-4F77-9D6A-D4DD717D12F1/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:12824:15
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/AE52D391-C017-4F77-9D6A-D4DD717D12F1/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:13204:33
+2015-03-11 12:32:52.750 PropChatApp[8704:168322] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/848B26AE-EBE5-4B10-AE5C-DB3FDE46AE2B/Library/Cookies/Cookies.binarycookies
+2015-03-11 12:32:52.889 PropChatApp[8704:168322] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 12:32:52.890 PropChatApp[8704:168322] Multi-tasking -> Device: YES, App: YES
+2015-03-11 12:32:52.892 PropChatApp[8704:168322] Unlimited access to network resources
+2015-03-11 12:32:53.136 PropChatApp[8704:168322] [CDVTimer][keyboard] 0.060022ms
+2015-03-11 12:32:53.136 PropChatApp[8704:168322] [CDVTimer][TotalPluginStartup] 0.217974ms
+2015-03-11 12:32:53.194 PropChatApp[8704:168322] Resetting plugins due to page load.
+2015-03-11 12:32:53.541 PropChatApp[8704:168322] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/271B4FC6-0AF5-4198-AE4A-C4787AB4A1BA/PropChatApp.app/www/index.html#/login
+2015-03-11 12:32:53.611 PropChatApp[8704:168322] login ctrl initialized
+2015-03-11 12:32:53.628 PropChatApp[8704:168322] Logged out
+2015-03-11 12:32:53.628 PropChatApp[8704:168322] Logged out
+2015-03-11 12:33:09.491 PropChatApp[8704:168322] Creat User Function called
+2015-03-11 12:33:11.358 PropChatApp[8704:168322] ERROR: Error: Can't find variable: ionicaLoading
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/271B4FC6-0AF5-4198-AE4A-C4787AB4A1BA/PropChatApp.app/www/js/controllers.js:35:18
+processQueue@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/271B4FC6-0AF5-4198-AE4A-C4787AB4A1BA/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21108:29
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/271B4FC6-0AF5-4198-AE4A-C4787AB4A1BA/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21124:39
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/271B4FC6-0AF5-4198-AE4A-C4787AB4A1BA/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$digest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/271B4FC6-0AF5-4198-AE4A-C4787AB4A1BA/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22136:36
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/271B4FC6-0AF5-4198-AE4A-C4787AB4A1BA/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22359:33
+completeOutstandingRequest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/271B4FC6-0AF5-4198-AE4A-C4787AB4A1BA/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:12824:15
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/271B4FC6-0AF5-4198-AE4A-C4787AB4A1BA/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:13204:33
+2015-03-11 12:33:47.665 PropChatApp[8976:169749] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/68383B46-6A41-40F1-AE44-2E2EB154E128/Library/Cookies/Cookies.binarycookies
+2015-03-11 12:33:47.786 PropChatApp[8976:169749] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 12:33:47.787 PropChatApp[8976:169749] Multi-tasking -> Device: YES, App: YES
+2015-03-11 12:33:47.789 PropChatApp[8976:169749] Unlimited access to network resources
+2015-03-11 12:33:48.009 PropChatApp[8976:169749] [CDVTimer][keyboard] 0.057995ms
+2015-03-11 12:33:48.009 PropChatApp[8976:169749] [CDVTimer][TotalPluginStartup] 0.218987ms
+2015-03-11 12:33:48.081 PropChatApp[8976:169749] Resetting plugins due to page load.
+2015-03-11 12:33:48.849 PropChatApp[8976:169749] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/EBB8A6D2-EDDA-4EAA-9496-C7CB235374F5/PropChatApp.app/www/index.html#/login
+2015-03-11 12:33:48.893 PropChatApp[8976:169749] Logged out
+2015-03-11 12:33:48.893 PropChatApp[8976:169749] Logged out
+2015-03-11 12:33:48.949 PropChatApp[8976:169749] login ctrl initialized
+2015-03-11 12:34:04.441 PropChatApp[8976:169749] Creat User Function called
+2015-03-11 12:34:06.797 PropChatApp[8976:169749] ERROR: Error: Can't find variable: ionicLoading
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/EBB8A6D2-EDDA-4EAA-9496-C7CB235374F5/PropChatApp.app/www/js/controllers.js:35:17
+processQueue@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/EBB8A6D2-EDDA-4EAA-9496-C7CB235374F5/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21108:29
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/EBB8A6D2-EDDA-4EAA-9496-C7CB235374F5/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:21124:39
+$eval@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/EBB8A6D2-EDDA-4EAA-9496-C7CB235374F5/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22320:28
+$digest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/EBB8A6D2-EDDA-4EAA-9496-C7CB235374F5/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22136:36
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/EBB8A6D2-EDDA-4EAA-9496-C7CB235374F5/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:22359:33
+completeOutstandingRequest@file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/EBB8A6D2-EDDA-4EAA-9496-C7CB235374F5/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:12824:15
+file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/EBB8A6D2-EDDA-4EAA-9496-C7CB235374F5/PropChatApp.app/www/lib/ionic/js/ionic.bundle.js:13204:33
+2015-03-11 12:35:07.514 PropChatApp[9245:171094] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/4235BE23-E4E8-46D2-8776-41B4DB36F1F2/Library/Cookies/Cookies.binarycookies
+2015-03-11 12:35:07.676 PropChatApp[9245:171094] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 12:35:07.676 PropChatApp[9245:171094] Multi-tasking -> Device: YES, App: YES
+2015-03-11 12:35:07.678 PropChatApp[9245:171094] Unlimited access to network resources
+2015-03-11 12:35:07.960 PropChatApp[9245:171094] [CDVTimer][keyboard] 0.051975ms
+2015-03-11 12:35:07.961 PropChatApp[9245:171094] [CDVTimer][TotalPluginStartup] 0.229001ms
+2015-03-11 12:35:08.017 PropChatApp[9245:171094] Resetting plugins due to page load.
+2015-03-11 12:35:08.401 PropChatApp[9245:171094] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/C0C92B80-080D-432B-8496-624AE215E282/PropChatApp.app/www/index.html#/login
+2015-03-11 12:35:08.444 PropChatApp[9245:171094] Logged out
+2015-03-11 12:35:08.444 PropChatApp[9245:171094] Logged out
+2015-03-11 12:35:08.475 PropChatApp[9245:171094] login ctrl initialized
+2015-03-11 12:35:24.600 PropChatApp[9245:171094] Creat User Function called
+2015-03-11 12:44:00.301 PropChatApp[9424:174381] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/3FF0702A-684C-4AFC-9961-42C71B428151/Library/Cookies/Cookies.binarycookies
+2015-03-11 12:44:00.416 PropChatApp[9424:174381] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 12:44:00.416 PropChatApp[9424:174381] Multi-tasking -> Device: YES, App: YES
+2015-03-11 12:44:00.418 PropChatApp[9424:174381] Unlimited access to network resources
+2015-03-11 12:44:00.629 PropChatApp[9424:174381] [CDVTimer][keyboard] 0.054002ms
+2015-03-11 12:44:00.629 PropChatApp[9424:174381] [CDVTimer][TotalPluginStartup] 0.218034ms
+2015-03-11 12:44:00.694 PropChatApp[9424:174381] Resetting plugins due to page load.
+2015-03-11 12:44:01.630 PropChatApp[9424:174381] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/E86FF28D-75DC-4BD1-A389-AE43D21290AA/PropChatApp.app/www/index.html#/login
+2015-03-11 12:44:01.705 PropChatApp[9424:174381] login ctrl initialized
+2015-03-11 12:44:01.738 PropChatApp[9424:174381] Logged out
+2015-03-11 12:44:01.738 PropChatApp[9424:174381] Logged out
+2015-03-11 12:44:15.594 PropChatApp[9424:174381] Logged in as: simplelogin:2
+2015-03-11 12:44:15.594 PropChatApp[9424:174381] Logged in as: simplelogin:2
+2015-03-11 12:44:15.594 PropChatApp[9424:174381] Logged in as simplelogin:2
+2015-03-11 12:53:23.048 PropChatApp[9424:174381] Logged in as: simplelogin:2
+2015-03-11 12:53:23.048 PropChatApp[9424:174381] Logged in as: simplelogin:2
+2015-03-11 12:53:23.048 PropChatApp[9424:174381] Logged in as simplelogin:2
+2015-03-11 14:56:01.279 PropChatApp[9639:183598] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/AA75B4CE-E5ED-43A1-A84F-E884DA3FE462/Library/Cookies/Cookies.binarycookies
+2015-03-11 14:56:01.386 PropChatApp[9639:183598] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 14:56:01.387 PropChatApp[9639:183598] Multi-tasking -> Device: YES, App: YES
+2015-03-11 14:56:01.388 PropChatApp[9639:183598] Unlimited access to network resources
+2015-03-11 14:56:01.594 PropChatApp[9639:183598] [CDVTimer][keyboard] 0.051975ms
+2015-03-11 14:56:01.594 PropChatApp[9639:183598] [CDVTimer][TotalPluginStartup] 0.220954ms
+2015-03-11 14:56:01.650 PropChatApp[9639:183598] Resetting plugins due to page load.
+2015-03-11 14:56:02.295 PropChatApp[9639:183598] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/F8E3DD58-D98D-4247-A039-9779CB42D7A6/PropChatApp.app/www/index.html#/login
+2015-03-11 14:56:02.337 PropChatApp[9639:183598] Logged in as: simplelogin:2
+2015-03-11 14:56:02.337 PropChatApp[9639:183598] Logged in as: simplelogin:2
+2015-03-11 14:56:02.395 PropChatApp[9639:183598] login ctrl initialized
+2015-03-11 14:57:23.109 PropChatApp[9639:183598] Logged in as: simplelogin:2
+2015-03-11 14:57:23.109 PropChatApp[9639:183598] Logged in as: simplelogin:2
+2015-03-11 14:57:23.109 PropChatApp[9639:183598] Logged in as simplelogin:2
+2015-03-11 14:57:50.966 PropChatApp[9895:185135] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/3D68F05C-41C8-4DB2-96CE-DF1183371134/Library/Cookies/Cookies.binarycookies
+2015-03-11 14:57:51.119 PropChatApp[9895:185135] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 14:57:51.119 PropChatApp[9895:185135] Multi-tasking -> Device: YES, App: YES
+2015-03-11 14:57:51.121 PropChatApp[9895:185135] Unlimited access to network resources
+2015-03-11 14:57:51.332 PropChatApp[9895:185135] [CDVTimer][keyboard] 0.059962ms
+2015-03-11 14:57:51.332 PropChatApp[9895:185135] [CDVTimer][TotalPluginStartup] 0.238001ms
+2015-03-11 14:57:51.399 PropChatApp[9895:185135] Resetting plugins due to page load.
+2015-03-11 14:57:51.816 PropChatApp[9895:185135] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/530613A2-D87C-45A3-9C1C-B54258772505/PropChatApp.app/www/index.html#/login
+2015-03-11 14:57:51.891 PropChatApp[9895:185135] login ctrl initialized
+2015-03-11 14:57:51.914 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 14:57:51.914 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 14:58:23.628 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 14:58:23.628 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 14:58:23.629 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:02:42.509 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:02:42.512 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:02:42.512 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:02:48.213 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:02:48.214 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:02:48.214 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:03:13.013 PropChatApp[9895:185135] Logging out from the app
+2015-03-11 15:03:13.045 PropChatApp[9895:185135] Logged out
+2015-03-11 15:03:13.045 PropChatApp[9895:185135] Logged out
+2015-03-11 15:03:14.652 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:03:14.653 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:03:14.653 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:04:04.551 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:04:04.551 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:04:04.551 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:04:12.309 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:04:12.310 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:04:12.310 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:11:03.451 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:11:03.451 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:11:03.452 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:11:31.235 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:11:31.235 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:11:31.235 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:15:48.714 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:15:48.714 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:15:48.714 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:20:14.233 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:20:14.234 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:20:14.234 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:20:57.268 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:20:57.268 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:20:57.269 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:21:43.575 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:21:47.568 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:21:47.569 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:22:27.566 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:22:27.567 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:22:27.567 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:22:41.387 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:22:41.387 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:22:41.387 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:24:15.909 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:24:15.910 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:24:15.910 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:25:38.575 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:25:38.607 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:25:38.607 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:31:17.789 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:31:17.789 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:31:17.790 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:31:34.784 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:31:34.784 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:31:34.785 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:31:48.078 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:31:48.078 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:31:48.078 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:31:58.982 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:31:58.982 PropChatApp[9895:185135] Logged in as: simplelogin:2
+2015-03-11 15:31:58.982 PropChatApp[9895:185135] Logged in as simplelogin:2
+2015-03-11 15:34:21.472 PropChatApp[9895:185170] bool _WebTryThreadLock(bool), 0x7963e670: Multiple locks on web thread not allowed! Please file a bug. Crashing now...
+1   0x55d3698 WebRunLoopLock(__CFRunLoopObserver*, unsigned long, void*)
+2   0x1909de __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__
+3   0x190920 __CFRunLoopDoObservers
+4   0x186218 __CFRunLoopRun
+5   0x185bcb CFRunLoopRunSpecific
+6   0x1859fb CFRunLoopRunInMode
+7   0x55d3660 RunWebThread(void*)
+8   0x2dc2e13 _pthread_body
+9   0x2dc2d89 _pthread_body
+10  0x2dc0e52 thread_start
+2015-03-11 15:35:34.122 PropChatApp[10101:195849] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Data/Application/E27A9236-B12E-47BD-9D0E-AC2EB947A02B/Library/Cookies/Cookies.binarycookies
+2015-03-11 15:35:34.219 PropChatApp[10101:195849] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 15:35:34.220 PropChatApp[10101:195849] Multi-tasking -> Device: YES, App: YES
+2015-03-11 15:35:34.221 PropChatApp[10101:195849] Unlimited access to network resources
+2015-03-11 15:35:34.437 PropChatApp[10101:195849] [CDVTimer][keyboard] 0.097990ms
+2015-03-11 15:35:34.437 PropChatApp[10101:195849] [CDVTimer][TotalPluginStartup] 0.329971ms
+2015-03-11 15:35:34.499 PropChatApp[10101:195849] Resetting plugins due to page load.
+2015-03-11 15:35:34.853 PropChatApp[10101:195849] Finished load of: file:///Users/alexhidalgo/Library/Developer/CoreSimulator/Devices/D7C83067-51D7-412B-ADF5-F7CE1DA80DEA/data/Containers/Bundle/Application/F4191708-543F-4F05-BEE7-D9D280395A8E/PropChatApp.app/www/index.html#/login
+2015-03-11 15:35:34.893 PropChatApp[10101:195849] Logged out
+2015-03-11 15:35:34.894 PropChatApp[10101:195849] Logged out
+2015-03-11 15:35:34.924 PropChatApp[10101:195849] login ctrl initialized
+2015-03-11 15:36:14.926 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:36:14.926 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:36:14.926 PropChatApp[10101:195849] Logged in as simplelogin:2
+2015-03-11 15:37:11.056 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:37:11.056 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:37:11.056 PropChatApp[10101:195849] Logged in as simplelogin:2
+2015-03-11 15:41:13.124 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:41:13.124 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:41:13.125 PropChatApp[10101:195849] Logged in as simplelogin:2
+2015-03-11 15:42:21.439 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:42:21.439 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:42:21.439 PropChatApp[10101:195849] Logged in as simplelogin:2
+2015-03-11 15:42:42.312 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:42:42.312 PropChatApp[10101:195849] Logged in as: simplelogin:2
+2015-03-11 15:42:42.312 PropChatApp[10101:195849] Logged in as simplelogin:2
+2015-03-11 15:43:11.518 PropChatApp[10101:195849] selecting the room with id 1
+2015-03-11 15:44:52.868 PropChatApp[10101:195849] selecting the room with id 2
+2015-03-11 15:46:02.148 PropChatApp[10101:195849] selecting the room with id 0
